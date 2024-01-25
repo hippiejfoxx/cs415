@@ -8,7 +8,9 @@
 				"/Users/ryanfore/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnle.uasset",
 				"/Users/ryanfore/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
 				"/Users/ryanfore/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
-				"/Users/ryanfore/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset"
+				"/Users/ryanfore/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/ryanfore/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/ryanfore/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
 			]
 		}
 	]
